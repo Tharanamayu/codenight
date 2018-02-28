@@ -135,6 +135,37 @@
 
       </div>
     </section><!-- #about -->
+      <!--==========================
+      Registration Section
+    ============================-->
+    <section >
+      <div id="register" class="content" >
+        <h1 align="center" class="crop"
+             style="position: relative;
+             top:-100px;
+             left: 25%;
+             z-index: 2;
+             width: 50%;
+             font-size: 2em;
+             " >Registar Now</h1>
+          <div class="main" style="margin-top:-50px;">
+          </div>
+
+      </div>
+    </section>
+    <section id="call-to-action" style="margin-top=500px;">
+      <div class="container"  >
+        <div class="row" style="border:1px solid;">
+          <div class="col-lg-9 text-center text-lg-left" style=" top:-150px; ">
+            <h3 class="cta-title" align="center" style=" padding-top:12px">Registration</h3>
+          </div>
+          <div class="col-lg-1 cta-btn-container text-center" style="top:-150px; ">
+            <a class="cta-btn align-middle" href="form.html">Register</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- #Registration -->
 
   
   </body>
