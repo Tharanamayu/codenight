@@ -62,6 +62,40 @@
       </nav><!-- #nav-menu-container -->
     </div>
   </header>
+    <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro">
+
+<br><br>
+<div class="" style="position: relative; " >
+  <img src="img/codenightlogo2finalfinal.png" class="img-responsive" alt="null"
+       style="position: relative;
+              left:30%;
+              top:50px;
+              z-index:2;
+              width:50%;"/>
+</div>
+
+  <br><br>
+
+
+    <h1 align="center" class="crop"
+         style="position: relative;
+         left: 25%;
+         z-index: 2;
+         width: 50%;
+         font-size: 1.5em;">CodeNight Hackathon V 2.0 2K18 <br>
+         Organized by<br>
+         Society of Computer Sciences <br>
+         Sabaragamuwa University of Sri Lanka.</h1>
+
+    <canvas id="bgCanvas"  ></canvas>
+    <canvas id="terCanvas""></canvas>
+
+  </section><!-- #intro -->
+  <main id="main">
+
   
   </body>
   </html>
