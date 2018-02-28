@@ -95,6 +95,46 @@
 
   </section><!-- #intro -->
   <main id="main">
+    <!--==========================
+      About Us Section
+    ============================-->
+    <section id="about" class="section-bg" >
+      <div class="container-fluid" style="width:100%;">
+        <div class="section-header">
+
+          <span class="section-divider"></span>
+
+          <div style="position: relative;">
+
+          <h1 align="center" class="crop"
+               style="position: relative;
+               left: 25%;
+               z-index: 2;
+               width: 50%;
+               font-size: 1.9em;
+               " >About Us</h1>
+
+          </div>
+
+        </div>
+
+        <div class="row" style="padding-left:20px;">
+          <div class="col-lg-6 about-img" data-aos="fade-right">
+            <img src="img/about.jpg" alt="" >
+          </div>
+
+          <div class="col-lg-6 content" data-aos="fade-left" style=" padding-top:60px; padding-right:20px ">
+
+            <p style="text-align:justify;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Code Night Hackathon 2018 is organized by Society of Computer Sciences in collaboration with Computing and Information Systems. It is a coding competition that focuses on the software skills, planning, improving new innovative ideas and team work of undergraduates as they are the future generation who will take part in the IT industry of Sri Lanka in future.
+              This hackathon is planned as a 12 hour hackthon comprising an Idea hackathon and Algorithm hackathon. There will be 10 teams participating each event, where one team comprises with 4 members.
+              The main intention here would be to focus on the young talent of the undergraduates to reach out the new technologies and apply them in the product implementation. The evaluation criteria would be wide covering Idea, Concept, logic, Implementation, Design and Presentation and the evaluation team would comprise of in house lecturers and other industrial professionals of the information technology industry.
+             </p>
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- #about -->
 
   
   </body>
