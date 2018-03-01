@@ -384,6 +384,30 @@
   <script src="lib/aos/aos.js"></script>
   <script src="lib/superfish/hoverIntent.js"></script>
   <script src="lib/superfish/superfish.min.js"></script>
-  <script src="lib/magnific-popup/magnific-popup.min.js"></script>                                                                             
+  <script src="lib/magnific-popup/magnific-popup.min.js"></script> 
+       <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!--  Main Javascript File -->
+  <script src="js/main.js"></script>
+  <script  src="js/index.js"></script>
+  <script>
+  (function() {
+
+    'use strict';
+
+    // define variables
+    var items = document.querySelectorAll(".timeline li");
+
+
+    function isElementInViewport(el) {
+      var rect = el.getBoundingClientRect();
+      return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+      );
+    }
   </body>
   </html>
