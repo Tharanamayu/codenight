@@ -166,7 +166,62 @@
 
       </div>
     </section><!-- #Registration -->
+    <!--==========================
+    Timeline
+    ============================-->
+    <section id="timeline"class="intro">
+      <div class="container">
+        <h2 align="center"  class="crop"
+             style="position: relative;
+             left: 25%;
+             z-index: 2;
+             width: 50%;
+             font-size: 1.9em;"
+    >Timeline</h2>
 
+
+      </div>
+    </section>
+    <section class="timeline">
+      <ul>
+        <li>
+          <div>
+            <time>6.00PM</time>Registration
+          </div>
+        </li>
+        <li>
+          <div>
+            <time>7.30PM</time>Session 1
+          </div>
+        </li>
+        <li>
+          <div>
+            <time>9.30PM</time> Session 2
+          </div>
+        </li>
+        <li>
+          <div>
+            <time>12.00AM</time>Presentation Round 1
+          </div>
+        </li>
+        <li>
+          <div>
+            <time>2.00AM</time>Session 3
+          </div>
+        </li>
+        <li>
+          <div>
+            <time>3.30AM</time>Final Presentation
+          </div>
+        </li>
+        <li>
+          <div>
+            <time>5.00AM</time>Closing Ceremony And Price Giving
+          </div>
+        </li>
+
+      </ul>
+    </section><!-- #timeline -->
   
   </body>
   </html>
