@@ -47,9 +47,9 @@ a{
   background: #2c2d66;
   width: 100%;
   border: 0;
-  padding: 15px;
+  padding: 16px;
   color: #FFFFFF;
-  font-size: 14px;
+  font-size: 12px;
   -webkit-transition: all 0.3 ease;
   transition: all 0.3 ease;
   cursor: pointer;
