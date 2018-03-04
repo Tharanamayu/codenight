@@ -25,7 +25,7 @@ a{
 	@import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 .login-page {
-  width: 380px;
+  width: 370px;
   padding: 8% 0 0;
   margin: auto;
 }
