@@ -61,5 +61,6 @@ jQuery(document).ready(function($) {
         }
       }
     });
-  } elseif(){}
+  } elseif($("#mobile-nav, #mobile-nav-toggle").length){
+  $("#mobile-nav, #mobile-nav-toggle").hide();}
 });
