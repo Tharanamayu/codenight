@@ -16,7 +16,8 @@ jQuery(document).ready(function($) {
     }, 1500, 'easeInOutExpo');
     return false;
   });
-
+  // Initiate the AOS animation library
+  AOS.init();
 
 
 });
