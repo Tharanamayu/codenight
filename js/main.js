@@ -18,6 +18,12 @@ jQuery(document).ready(function($) {
   });
   // Initiate the AOS animation library
   AOS.init();
-
+  // Initiate superfish on nav menu
+  $('.nav-menu').superfish({
+    animation: {
+      opacity: 'show'
+    },
+    speed: 400
+  });
 
 });
