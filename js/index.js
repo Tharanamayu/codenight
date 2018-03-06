@@ -114,3 +114,11 @@
 	}
 
 	var entities = [];
+  // init the stars
+  for(var i=0; i < height; i++){
+    entities.push(new Star({x:Math.random()*width, y:Math.random()*height}));
+  }
+
+  // Add 2 shooting stars that just cycle.
+  entities.push(new ShootingStar());
+  entities.push(new ShootingStar());
